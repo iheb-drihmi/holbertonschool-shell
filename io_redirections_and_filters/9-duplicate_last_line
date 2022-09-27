@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'tail -1  < iacta >> iacta' >>
+echo 'tail -1 < iacta >> iacta ' >>
+
