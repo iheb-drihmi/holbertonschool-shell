@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -v bubble /etc/ssh/sshd_config
