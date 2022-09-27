@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 'tail -1 < iacta >> iacta ' 9-duplicate_last_line
+cat iacta | tail -n -1>>iacta
