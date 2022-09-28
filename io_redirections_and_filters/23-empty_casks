@@ -1,2 +1,2 @@
 #!/bin/bash
-find . /0x02-shell_redirections ./23-empty_casks -type d -empty
+find . –maxdepth 1 –type d -empty | rev | cut -d "/" -f 1| rev
