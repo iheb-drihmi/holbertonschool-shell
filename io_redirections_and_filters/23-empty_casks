@@ -1,2 +1,2 @@
 #!/bin/bash
-find   /23-empty_casks  –type f -empty
+find   /0x02-shell_redirections$ ./23-empty_casks   –type f -empty
